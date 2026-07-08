@@ -47,7 +47,3 @@ The notebook includes:
 - Black-Scholes Pricing & Implied Volatility
 - SciPy
 - Matplotlib
-
-## Topics
-
-Quantitative Finance • Stochastic Local Volatility • Monte Carlo Methods • Volatility Smile • Model Calibration • Derivatives Pricing
